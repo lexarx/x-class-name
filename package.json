@@ -1,0 +1,13 @@
+{
+	"name": "x-class-name",
+	"version": "1.0.0",
+	"description": "Class name utilities.",
+	"keywords": [
+		"className"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-class-name/issues",
+	"license": "MIT",
+	"main": "class-name.js",
+	"repository": "lexarx/x-class-name"
+}
